@@ -2,6 +2,8 @@
  
 ## Overview 
 GoonGatherer is a Telegram bot that searches Reddit for NSFW images based on a user-provided keyword and sends up to 5 images as a single media group (album) to a Telegram chat. The bot uses the Reddit API to scrape images, validates and compresses them to meet Telegram's requirements, and handles errors gracefully. 
+
+Official X (Twitter): https://x.com/GoonGather
  
 ## Dependencies 
 To run GoonGatherer, install the following Python packages using `pip`: 
